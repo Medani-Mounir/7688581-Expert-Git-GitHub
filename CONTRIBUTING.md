@@ -9,8 +9,7 @@ Open Transport recherche des contributeurs pour tous types de tâches : amélior
 
 ## Comment contriburer ?
 
----local---
-**-local-**
+local
 
 
 
